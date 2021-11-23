@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637595796 source:c:\users\youcode\desktop\ayoub benouahi\gestion bancaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
